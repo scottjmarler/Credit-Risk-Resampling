@@ -2,7 +2,7 @@
 
 ## Credit Risk Resampling
 
-Credit risk poses a classification problem that’s inherently imbalanced. This is because healthy loans easily outnumber risky loans. In this Challenge, you’ll use various techniques to train and evaluate models with imbalanced classes. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+Credit risk poses a classification problem that’s inherently imbalanced. This is because healthy loans easily outnumber risky loans. For this project I used various techniques to train and evaluate models with imbalanced classes. Using a dataset of historical lending activity from a peer-to-peer lending services company, I built a model that can identify the creditworthiness of borrowers.
 
 
 #
@@ -49,7 +49,7 @@ Credit risk poses a classification problem that’s inherently imbalanced. This 
 
 ## Usage
 
-* This challenge consists of the following subsections:
+* This project consists of the following subsections:
 
     * Split the Data into Training and Testing Sets
 
@@ -62,8 +62,7 @@ Credit risk poses a classification problem that’s inherently imbalanced. This 
 
 
 >
-> Available at:
-https://courses.bootcampspot.com/courses/1251/assignments/25272?module_item_id=511621
+
 
 ## Contributors
 
